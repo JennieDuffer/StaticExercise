@@ -1,7 +1,7 @@
 ﻿using StaticExercise;
 
-TempConverter.FahrenheitToCelsius(32);
-Console.WriteLine(TempConverter.FahrenheitToCelsius(32));
+TempConverter.FahrenheitToCelsius(68);
+Console.WriteLine(TempConverter.FahrenheitToCelsius(68));
 
-TempConverter.CelsiusToFahrenheit(0);
-Console.WriteLine(TempConverter.CelsiusToFahrenheit(0));
+TempConverter.CelsiusToFahrenheit(20);
+Console.WriteLine(TempConverter.CelsiusToFahrenheit(20));
